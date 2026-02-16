@@ -17,7 +17,7 @@ A browser extension that allows users to scan QR codes from images on any webpag
 1. Open Edge browser and navigate to `edge://extensions/`
 2. Enable "Developer mode" in the top right corner
 3. Click "Load unpacked"
-4. Select the project folder `E:\my_os\image_qrcode`
+4. Select the project folder `xxx\image_qrcode`
 5. Installation complete!
 
 ### Google Chrome
